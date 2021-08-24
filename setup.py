@@ -4,7 +4,7 @@ from aldryn_apphooks_config import __version__
 
 REQUIREMENTS = [
     'django-appdata>=0.2.0',
-    'django-cms>=3.4.5'
+    #'django-cms>=3.4.5'
 ]
 
 
