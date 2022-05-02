@@ -9,7 +9,7 @@ REQUIREMENTS = [
 
 
 setup(
-    name='aldryn-apphooks-config',
+    name='aldryn-apphooks-config-Zephyrus5',
     version=__version__,
     description='Namespaces based configuration for Apphooks',
     long_description=open('README.rst').read(),
